@@ -3,9 +3,9 @@ public class Fibonacci {
 	
 	public static void main(String [] args) {
 		int n;
-		  n = fibonacciIteration(9);
+		  n = fibonacciIteration(10);
 	        System.out.printf("\n\nThe %d number of the Fibonacci sequence "
-	        		+ "is %d\n", 9 , n);
+	        		+ "is %d\n", 10 , n);
 	    	
 	} //end main
 	
